@@ -1,0 +1,25 @@
+header{
+    display:flex;
+    height:8vh;
+}
+
+header div{
+    height:100%;
+    padding:0px 20px;
+    display:flex;
+    align-items:center;
+}
+
+header div:nth-of-type(1){
+    padding:0px;
+    flex-grow:1;
+}
+
+header img{
+    height:100%;
+}
+
+header a:hover{
+    text-decoration-line:underline;
+    text-decoration-thickness:1px;
+}

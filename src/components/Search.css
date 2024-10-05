@@ -1,0 +1,13 @@
+#inputSection{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:10px 0px;
+}
+
+#inputSection input{
+    width:20%;
+    height:20px;
+    padding:0px 10px;
+    border-radius:10px;
+}
