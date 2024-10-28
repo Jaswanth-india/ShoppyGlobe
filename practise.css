@@ -1,0 +1,22 @@
+div{
+}
+
+div::-webkit-scrollbar{ 
+    width:4px;
+}
+
+div::-webkit-scrollbar-thumb{
+    background-color:gray;
+}
+
+div::-webkit-scrollbar-track{
+    background-color:blue;
+}
+
+div::-webkit-scrollbar-track-piece{
+    background-color:transparent;
+}
+
+div::-webkit-scrollbar:horizontal{
+    display:none;
+}

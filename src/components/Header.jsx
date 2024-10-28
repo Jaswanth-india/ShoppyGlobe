@@ -17,6 +17,7 @@ function Header(){
                 <div><Link to="/cart">Cart</Link></div>
                 <div><Link to="/login">Login</Link></div>
                 <div><Link to="/register">Register</Link></div>
+                <div id="sample">Sample</div>
             </header>
             <hr/>
         </>

@@ -23,3 +23,7 @@ header a:hover{
     text-decoration-line:underline;
     text-decoration-thickness:1px;
 }
+
+#sample{
+    font-weight:bold;
+}
